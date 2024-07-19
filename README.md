@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 # Admin-Dash-Borad
 =======
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+clone repo 
+npm install
+npm run dev or npm start
 
 Currently, two official plugins are available:
 
